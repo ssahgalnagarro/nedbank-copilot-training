@@ -33,5 +33,5 @@ Scroll should be smooth in nature. Ask Copilot’s help to achieve this action.
 
 ###  Step 4: Find out how to run the app
 
-Open GitHub Copilot chat by clicking on the chat icon on the left side bar and use the input section to ask the following:
+Open GitHub Copilot chat by clicking on the chat icon on the left side bar and ask the question how to run this application. 
 
