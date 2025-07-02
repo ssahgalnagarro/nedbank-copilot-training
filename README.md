@@ -7,12 +7,12 @@ Explore how you can modify a JavaScript repository using code suggestions from G
 1. Enable your [GitHub Copilot service](https://github.com/github-copilot/signup)
 1. NodeJS must be installed
 
-## 💪🏽 Exercise
+##  Exercise
 
 In this template portfolio, we have a React based web application ready for you to easily customize and deploy using only your web browser.
 
 
-### 🛠 Step 1: Customize the web app
+###  Step 1: Customize the web app
 
 Customize the portfolio with below details:
 #### Name must be your group name not "Alexandrie Grenier"
@@ -21,7 +21,7 @@ Customize the portfolio with below details:
 Use GitHub Copilot features to find the place where it need to be replaced.
 
 
-### 🔎 Step 2: Animate the social media icons with a prompt
+###  Step 2: Animate the social media icons with a prompt
 
 An animation can make the social media section more eye-catching. Ask Copilot’s help to animate the icons.
 
