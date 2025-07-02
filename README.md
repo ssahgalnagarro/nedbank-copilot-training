@@ -31,7 +31,7 @@ An animation can make the social media section more eye-catching. Ask Copilot’
 Scroll should be smooth in nature. Ask Copilot’s help to achieve this action.
 
 
-### 🚀 Step 4: Find out how to run the app
+###  Step 4: Find out how to run the app
 
 Open GitHub Copilot chat by clicking on the chat icon on the left side bar and use the input section to ask the following:
 
